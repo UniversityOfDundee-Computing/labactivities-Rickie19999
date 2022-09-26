@@ -1,3 +1,0 @@
-PLUTO
-
-not a planet
