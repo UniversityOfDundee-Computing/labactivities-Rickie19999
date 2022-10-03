@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+  </head>
+
+  <body>
+
+    <header>
+        <h1> Rickie Kumar CV</h1>
+        <img src="https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y"
+        width="300" 
+        height="200" /> 
+        
+        <h3>This is me</h3>
+    </header>
+
+    <main>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li> Graduated in high school <strong>Stenhus Gymnasium</strong> in Denmark</li>
+                <li> Studying in <strong>Roskilde University</strong> in Denmark</li>
+                <li>Currently a exchange student at <strong>University of Dundee</strong> in Scotland</li>
+            </ul>
+
+        </section>
+        <section>
+            <h2>key Skills</h2>
+            <h3>Computing skills</h3>
+                <ol>
+                    <li>1 semester of <strong>Java</strong></li>
+                    <li>1 semester of <strong>Python</strong></li>
+                    <li> Fair amount of <strong>HTML and CSS</strong> for project work</li>
+
+                </ol>
+
+            <h3></h3>
+
+        <img src="https://content.techgig.com/thumb/msid-75672064,width-860,resizemode-4/Bill-Gates-recommends-these-online-free-resources-to-learn-coding.jpg?66999"
+        width="300"
+        height="300">
+
+        </section>
+
+    </main>
+
+    <footer>
+
+
+    </footer>
+
+  </body>
+
+</html>
