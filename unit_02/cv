@@ -7,12 +7,15 @@
   <body>
 
     <header>
-        <h1> Rickie Kumar CV</h1>
+        <h1> Rickie's CV </h1>
+        <h2> Assignment 2 for Web Authoring </h2>
         <img src="https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y"
         width="300" 
         height="200" /> 
+        <p>That is me</p>
         
-        <h3>This is me</h3>
+        <h2>Profile</h2>
+        <p> I'm a student from Denmark on exchange at Universityof Dundee. I'm currently studying for Roskilde University, also known as RUC. In the past I've studied in Sweden, but that was in my younger days. I have small experience with coding in different languages, such as Python and Java, due to project. I would say I have decent experience with those languages, but also HTML and CSS, but it's mostly self taught, since the group project for RUC was to design a job application website.</p>
     </header>
 
     <main>
@@ -26,20 +29,30 @@
 
         </section>
         <section>
-            <h2>key Skills</h2>
-            <h3>Computing skills</h3>
+            <h2>Experience</h2>
+            <h3>- Computing skills</h3>
                 <ol>
                     <li>1 semester of <strong>Java</strong></li>
                     <li>1 semester of <strong>Python</strong></li>
                     <li> Fair amount of <strong>HTML and CSS</strong> for project work</li>
+                </ol>
+            <h3></h3>
+            <h3>- Project </h3>
+                <p> Projects were made in University at RUC in groups</p>
+                <ol> 
+                    <li> Made/designed a job application website with Python (Self taught) and some css</li>
+                    <li> Made web design concept of Roskilde University's study platform</li>
+                    <li> Made a small game with javascript</li>
+                    <p> Basically simple stuff</p>
 
                 </ol>
 
-            <h3></h3>
-
-        <img src="https://content.techgig.com/thumb/msid-75672064,width-860,resizemode-4/Bill-Gates-recommends-these-online-free-resources-to-learn-coding.jpg?66999"
-        width="300"
-        height="300">
+        </section>
+        <section> 
+            <h2> Contact details</h2>
+                <ol> Name: <strong> Rickie</strong></ol>
+                <ol> Phone number: <strong> +24 24242424</strong></ol>
+                <ol> Email: <strong> Rickie@rickie.rickie</strong></ol>
 
         </section>
 
